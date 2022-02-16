@@ -1,15 +1,13 @@
-## My name is Jaysi, Jaime Jaysi.. 🤵
-
 <br>
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/93339762/154278959-5f3c5d90-7429-4227-af44-05a225972c79.png">
+  <img src="https://user-images.githubusercontent.com/93339762/154282491-34adbfb3-4a93-40ad-87f7-76f08bc24928.png">
 </div>
-  <br>
+  <br><br>
 
 <div align='center' style='display: inline_block'>
-  <img src='https://github-readme-stats.vercel.app/api?username=jaysijj&show_icons=true&theme=highcontrast'>
+  <img src='https://github-readme-stats.vercel.app/api?username=jaysijj&show_icons=true&theme=dark'>
 </div>
-<br>
+<br><br>
 
 <div align='center' style='display: inline_block'>
   <img height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
