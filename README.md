@@ -15,7 +15,7 @@
   <img align="center" alt="Jaysi-CSS" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Jaysi-HTML" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Jaysi-Python" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Jaysi-Suit" height=200px src="https://user-images.githubusercontent.com/93339762/155822428-90185d97-f3bb-4fe0-aedf-5f2ad8efd4c5.gif">
+  <img align="right" alt="Jaysi-Suit" height=180px src="https://user-images.githubusercontent.com/93339762/155822428-90185d97-f3bb-4fe0-aedf-5f2ad8efd4c5.gif">
 </div>
 
 ##
