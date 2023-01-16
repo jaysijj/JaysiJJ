@@ -5,8 +5,8 @@
   <br><br>
 
 <div align='center' style='display: inline_block'>
-  <img src='https://github-readme-stats.vercel.app/api?username=jaysijj&show_icons=true&theme=dark'>
-  <img height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaysijj&show_icons=true&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api?username=jaysi&show_icons=true&theme=dark'>
+  <img height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaysi&show_icons=true&theme=dark'>
 </div>
 <br><br>
 
