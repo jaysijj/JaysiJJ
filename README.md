@@ -1,26 +1,48 @@
 <br>
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/93339762/154592393-d2011882-348c-4591-9ebc-6ae1643b0ad8.png">
+  <img src="https://github.com/jaysijj/JaysiJJ/assets/93339762/be62e6d5-17b8-47ae-822e-fc34fafd681e">
 </div>
   <br><br>
 
 <div align='center' style='display: inline_block'>
-  <img src='https://github-readme-stats.vercel.app/api?username=jaysijj&show_icons=true&theme=dark'>
-  <img height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaysijj&show_icons=true&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api?username=jaysijj&show_icons=true&theme=dark&rank_icon=github&border_radius=10'>
+    <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysijj&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br><br>
 
-<div style='display: inline_block'>
-  <img align="center" alt="Jaysi-JS" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Jaysi-CSS" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Jaysi-HTML" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Jaysi-Python" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+## Linguagens de Programação:
+<img align='right' src="https://skillicons.dev/icons?i=javascript,python,typescript,java" />
 
+- JavaScript
+- Python
+- TypeScript
+- Java
+
+## Bibliotecas e Frameworks:
+<img align='right' src="https://skillicons.dev/icons?i=react,django,bootstrap" />
+
+- React (JavaScript library para construção de interfaces de usuário)
+- Django (Framework web em Python)
+- BootStrap
+
+## Markup, Estilo, IDE, Ambiente de Execução
+<img align='right' src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,nodejs,mysql" />
+
+- HTML;
+- CSS;
+- VSCode;
+- Android Studio;
+- Node.js;
+- MySQL;
+
+<br><br>
 ##
+<br>
 <div align="right">
+  <a href="https://jaysijj.github.io/Portfolio/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://linkedin.com/in/jaime-jaysi" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jaimejaysi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 
